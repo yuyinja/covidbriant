@@ -1,0 +1,28 @@
+zip_code,Name,population,median_income,percent_white,percent_in_poverty,percent_wo_health_insurance,number_of_testing_sites,predicted_case_rate,current_case_rate,current > predicted?,flag
+94102,San Francisco,31067,41835,45.2,21,7.70,1,47.28,42.8,FALSE,0
+94103,San Francisco,28735,57015,40.2,20.2,5.50,1,34.21,58.54,TRUE,1
+94104,San Francisco,546,52679,35.7,21.1,13.20,1,Insufficient data,less than 10,TRUE,1
+94105,San Francisco,9155,213009,45.3,7,2.40,0,15.79,19.54,TRUE,1
+94107,San Francisco,29689,150451,52.8,10.3,2.20,1,14.60,40.78,TRUE,1
+94108,San Francisco,14550,62173,34.5,20.5,4.20,0,26.49,8.08,FALSE,0
+94109,San Francisco,56677,88593,59.7,11.9,4.70,1,29.46,16.97,FALSE,0
+94110,San Francisco,74161,123576,55.4,9.5,5.80,3,35.99,51.53,TRUE,1
+94111,San Francisco,3620,110455,50.8,17.5,1.80,1,Insufficient data,less than 10,TRUE,1
+94112,San Francisco,85166,89355,23.4,8.6,5.50,1,34.21,34.32,TRUE,1
+94114,San Francisco,34754,155551,75.9,5.6,2.10,1,14.01,11.57,FALSE,0
+94115,San Francisco,35004,114819,57.3,11.7,4.10,4,29.46,35.8,TRUE,1
+94116,San Francisco,47823,107619,36.1,5.4,2.80,0,18.17,7.13,FALSE,0
+94117,San Francisco,44239,152071,74.1,7.3,3.10,0,19.95,12.84,FALSE,0
+94118,San Francisco,41468,110216,57.2,8.6,3.40,5,21.73,9.42,FALSE,0
+94121,San Francisco,43795,95036,44.8,9.6,3.60,1,22.92,8.94,FALSE,0
+94122,San Francisco,62131,109607,40.1,9.5,3.80,2,25.89,10.24,FALSE,0
+94123,San Francisco,25941,148276,84.6,4.6,1.30,0,9.82,11,TRUE,1
+94124,San Francisco,35363,56607,12.4,20.1,6.30,3,38.97,54.66,TRUE,1
+94127,San Francisco,21423,158162,54.8,4.8,3.40,0,21.73,11.38,FALSE,0
+94129,San Francisco,3994,184035,76.5,3.8,1.10,0,Insufficient data,less than 10,TRUE,1
+94130,San Francisco,3064,59063,38.9,48.8,18.10,0,Insufficient data,less than 10,TRUE,1
+94131,San Francisco,29902,137762,64.9,5.2,2.40,0,15.79,18.93,TRUE,1
+94132,San Francisco,74187,74187,35.4,17.9,6.50,0,40.15,10.59,FALSE,0
+94133,San Francisco,66811,66811,42.7,15.2,4.20,2,25.30,10.39,FALSE,0
+94134,San Francisco,76229,76229,16.4,11.9,5.70,1,35.40,32.04,FALSE,0
+94158,San Francisco,153077,153077,46.9,13.2,3.70,1,23.52,38.19,TRUE,1
